@@ -17,3 +17,5 @@ wunzip: "wisconsin" unzip
 - decompresses files
 - undos wzip
 - Usage: ./wunzip file.name
+
+Professor: Samuel King
