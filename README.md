@@ -1,6 +1,4 @@
-# Simple Unix Utilities - ECS 150
-Professor: Samuel King
-
+# Simple Unix Utilities
 
 ### wcat: "wisconsin" cat
 - prints out content of given file
